@@ -5,6 +5,7 @@
       "Bash(ninja *)",
       "Bash(make *)",
       "Bash(git add:*)",
+      "Bash(git log:*)",
       "Bash(grep:*)",
       "Bash(echo $?)",
       "Bash(awk:*)"
