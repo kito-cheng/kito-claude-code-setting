@@ -1,0 +1,15 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(git commit:*)",
+      "Bash(ninja *)",
+      "Bash(make *)",
+      "Bash(git add:*)",
+      "Bash(grep:*)",
+      "Bash(echo $?)",
+      "Bash(awk:*)"
+    ],
+    "deny": [],
+    "ask": [],
+  }
+}
