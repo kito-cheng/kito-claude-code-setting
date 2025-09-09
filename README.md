@@ -42,14 +42,6 @@ Most commands in the `commands` directory are written in Traditional Chinese, as
 - Cross-compilation workflow automation
 - Patch review and submission workflows
 
-## Usage
-
-Clone this repository to access and use the configurations:
-
-```bash
-git clone [repository-url]
-```
-
 ## How to Use Commands in Claude or Auggie
 
 ### Basic Command Usage
